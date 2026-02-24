@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wajebaat Tracker</string>
+    <string name="nav_input">Input</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_summary">Summary</string>
+    <string name="nav_settings">Settings</string>
+</resources>

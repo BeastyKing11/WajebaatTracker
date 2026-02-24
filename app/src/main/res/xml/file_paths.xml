@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Covers: context.getExternalFilesDir(DIRECTORY_DOCUMENTS)/WajebaatTracker/
+        = /sdcard/Android/data/com.wajebaat.tracker/files/Documents/
+    -->
+    <external-files-path
+        name="wajebaat_exports"
+        path="Documents/" />
+
+    <!-- Fallback: internal files dir if external storage unavailable -->
+    <files-path
+        name="wajebaat_internal"
+        path="." />
+</paths>
